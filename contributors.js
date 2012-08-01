@@ -840,121 +840,11 @@
             "discipline": "Games Research",
             "url": "http://foss.rit.edu/projects/fosssgm",
             "relationship": "Games Research",
-            "date": "2012-06-04",
+            "date": "2012-06-08",
             "imageURL": "games_research.png",
-            "relationship-detail": "Initialized blogs, learned IRC, and created accounts on github.",
+            "relationship-detail": "Initialized blogs, learned IRC, and created accounts on github.\nStarted Preliminary Research document to store all rough drafts, charts, and summaries for individual papers\nStarted Research Essays document\nStarted User Generated Content Info document for research into User Generated Content\nCompleted User Generated Content Info document\nCompleted Preliminary Research document\nCompiled papers into a Fedora RPG: Preliminary Research document",
             "type": "Games Research",
-            "label": "Initialized blogs, learned IRC, and created accounts on github."
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-04",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Preliminary Research document to store all rough drafts, charts, and summaries for individual papers",
-            "type": "Games Research",
-            "label": "Started Preliminary Research document to store all rough drafts, charts, and summaries for individual papers"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-05",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Research Essays document",
-            "type": "Games Research",
-            "label": "Started Research Essays document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-05",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started User Generated Content Info document for research into User Generated Content",
-            "type": "Games Research",
-            "label": "Started User Generated Content Info document for research into User Generated Content"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-05",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed User Generated Content Info document",
-            "type": "Games Research",
-            "label": "Completed User Generated Content Info document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-07",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed Preliminary Research document",
-            "type": "Games Research",
-            "label": "Completed Preliminary Research document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-11",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Researched real money trading, geosocial services, etc",
-            "type": "Games Research",
-            "label": "Researched real money trading, geosocial services, etc"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-11",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Playtested MMORPG and social games",
-            "type": "Games Research",
-            "label": "Playtested MMORPG and social games"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-11",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Investigated open source tech and completed a general analyses survey for each",
-            "type": "Games Research",
-            "label": "Investigated open source tech and completed a general analyses survey for each"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-12",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Research Outlines document to summarize our results for the initial questions from SJ",
-            "type": "Games Research",
-            "label": "Started Research Outlines document to summarize our results for the initial questions from SJ"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-12",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed Research Outlines document",
-            "type": "Games Research",
-            "label": "Completed Research Outlines document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-13",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Game Analysis Matrix spreadsheet to store all game analyses in an easy to view matrix",
-            "type": "Games Research",
-            "label": "Started Game Analysis Matrix spreadsheet to store all game analyses in an easy to view matrix"
+            "label": "Week 1 (June 4th - 8th)"
         },
         {
             "discipline": "Games Research",
@@ -962,159 +852,9 @@
             "relationship": "Games Research",
             "date": "2012-06-14",
             "imageURL": "games_research.png",
-            "relationship-detail": "Completed Game Analysis Matrix spreadsheet",
+            "relationship-detail": "Researched real money trading, geosocial services, etc\nPlaytested MMORPG and social games\nInvestigated open source tech and completed a general analyses survey for each\nStarted Research Outlines document to summarize our results for the initial questions from SJ\nCompleted Research Outlines document\nStarted Game Analysis Matrix spreadsheet to store all game analyses in an easy to view matrix\nCompleted Game Analysis Matrix spreadsheet\nStarted Open Source Tech Matrix spreadsheet to store all open technology info in an easy to view matrix\nStarted Open Source Tech Analysis document to store all open technology  analyses in an easy to view matrix",
             "type": "Games Research",
-            "label": "Completed Game Analysis Matrix spreadsheet"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-14",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Open Source Tech Matrix spreadsheet to store all open technology info in an easy to view matrix",
-            "type": "Games Research",
-            "label": "Started Open Source Tech Matrix spreadsheet to store all open technology info in an easy to view matrix"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-14",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Open Source Tech Analysis document to store all open technology  analyses in an easy to view matrix",
-            "type": "Games Research",
-            "label": "Started Open Source Tech Analysis document to store all open technology  analyses in an easy to view matrix"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-18",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started RPG and Social Game Mechanics spreadsheet to store all game mechanic information in an easy to view matrix",
-            "type": "Games Research",
-            "label": "Started RPG and Social Game Mechanics spreadsheet to store all game mechanic information in an easy to view matrix"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-18",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed Game Analyses document",
-            "type": "Games Research",
-            "label": "Completed Game Analyses document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-18",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed Open Source Tech Matrix spreadsheet",
-            "type": "Games Research",
-            "label": "Completed Open Source Tech Matrix spreadsheet"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-19",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed RPG and Social Game Mechanics spreadsheet",
-            "type": "Games Research",
-            "label": "Completed RPG and Social Game Mechanics spreadsheet"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-19",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Game Analysis Quicklook spreadsheet to store all Game Analyses information in an easy to view matrix",
-            "type": "Games Research",
-            "label": "Started Game Analysis Quicklook spreadsheet to store all Game Analyses information in an easy to view matrix"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-19",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed Game Analysis Quicklook spreadsheet",
-            "type": "Games Research",
-            "label": "Completed Game Analysis Quicklook spreadsheet"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-19",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed Open Source Tech Analysis doc",
-            "type": "Games Research",
-            "label": "Completed Open Source Tech Analysis doc"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-19",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed Open Source Tech Quicklook spreadshee\t",
-            "type": "Games Research",
-            "label": "Completed Open Source Tech Quicklook spreadshee\t"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-20",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Commarch Thoughts on Game Tech document to determine what group members thought of each technology",
-            "type": "Games Research",
-            "label": "Started Commarch Thoughts on Game Tech document to determine what group members thought of each technology"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-20",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed Commarch Thoughts on Game Tech document",
-            "type": "Games Research",
-            "label": "Completed Commarch Thoughts on Game Tech document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-21",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Plan for 6/21-6/29 spreadsheet",
-            "type": "Games Research",
-            "label": "Started Plan for 6/21-6/29 spreadsheet"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-21",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed Plan for 6/21-6/29 spreadsheet",
-            "type": "Games Research",
-            "label": "Completed Plan for 6/21-6/29 spreadsheet"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-21",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Contact Vitals document",
-            "type": "Games Research",
-            "label": "Started Contact Vitals document"
+            "label": "Week 2 (June 11th - 15th)"
         },
         {
             "discipline": "Games Research",
@@ -1122,129 +862,9 @@
             "relationship": "Games Research",
             "date": "2012-06-22",
             "imageURL": "games_research.png",
-            "relationship-detail": "Sent up-to-date work to RedHat for review",
+            "relationship-detail": "Started RPG and Social Game Mechanics spreadsheet to store all game mechanic information in an easy to view matrix\nCompleted Game Analyses document\nCompleted Open Source Tech Matrix spreadsheet\nCompleted RPG and Social Game Mechanics spreadsheet\nStarted Game Analysis Quicklook spreadsheet to store all Game Analyses information in an easy to view matrix\nCompleted Game Analysis Quicklook spreadsheet\nCompleted Open Source Tech Analysis doc\nCompleted Open Source Tech Quicklook spreadshee\t\nStarted Commarch Thoughts on Game Tech document to determine what group members thought of each technology\nCompleted Commarch Thoughts on Game Tech document\nStarted Research: 2D RPGs document\nStarted Plan for 6/21-6/29 spreadsheet\nCompleted Plan for 6/21-6/29 spreadsheet\nStarted Contact Vitals document\nSent up-to-date work to RedHat for review\nPlaytested various RPGs including Super Mario RPG, FF1, Ocarina of Time, Earthbound, and Secret of Mana",
             "type": "Games Research",
-            "label": "Sent up-to-date work to RedHat for review"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-18",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Playtested various RPGs including Super Mario RPG, FF1, Ocarina of Time, Earthbound, and Secret of Mana",
-            "type": "Games Research",
-            "label": "Playtested various RPGs including Super Mario RPG, FF1, Ocarina of Time, Earthbound, and Secret of Mana"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-25",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Received feedback from RedHat",
-            "type": "Games Research",
-            "label": "Received feedback from RedHat"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-25",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Contacted various Open Source collectives and companies",
-            "type": "Games Research",
-            "label": "Contacted various Open Source collectives and companies"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-26",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Began designing combat systems, mechanics, and setting",
-            "type": "Games Research",
-            "label": "Began designing combat systems, mechanics, and setting"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-26",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Game experience brainstorming session",
-            "type": "Games Research",
-            "label": "Game experience brainstorming session"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-26",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Brainstorming Game Experience document to hold information from brainstorming session ",
-            "type": "Games Research",
-            "label": "Started Brainstorming Game Experience document to hold information from brainstorming session "
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-26",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Discussed MDA (Mechanics, Dynamics, Aesthetics)",
-            "type": "Games Research",
-            "label": "Discussed MDA (Mechanics, Dynamics, Aesthetics)"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-27",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Contact Status spreadsheet started",
-            "type": "Games Research",
-            "label": "Contact Status spreadsheet started"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-27",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Brainstormed negative elements within games",
-            "type": "Games Research",
-            "label": "Brainstormed negative elements within games"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-28",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Contact Status spreadsheet completed",
-            "type": "Games Research",
-            "label": "Contact Status spreadsheet completed"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-28",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed Contact Vitas document",
-            "type": "Games Research",
-            "label": "Completed Contact Vitas document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-28",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Outreach Responses document started",
-            "type": "Games Research",
-            "label": "Outreach Responses document started"
+            "label": "Week 3 (June 18th - 22nd)"
         },
         {
             "discipline": "Games Research",
@@ -1252,39 +872,9 @@
             "relationship": "Games Research",
             "date": "2012-06-29",
             "imageURL": "games_research.png",
-            "relationship-detail": "Outreach Responses document completed",
+            "relationship-detail": "Received feedback from RedHat\nResearch: 2D RPGs doc completed\nContacted various Open Source collectives and companies\nBegan designing combat systems, mechanics, and setting\nGame experience brainstorming session\nStarted Brainstorming Game Experience document to hold information from brainstorming session \nDiscussed MDA (Mechanics, Dynamics, Aesthetics)\nContact Status spreadsheet started\nBrainstormed negative elements within games\nContact Status spreadsheet completed\nCompleted Contact Vitas document\nOutreach Responses document started\nOutreach Responses document completed",
             "type": "Games Research",
-            "label": "Outreach Responses document completed"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-02",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Game Definitions document",
-            "type": "Games Research",
-            "label": "Started Game Definitions document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-02",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed Game Definitions document",
-            "type": "Games Research",
-            "label": "Completed Game Definitions document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-02",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Begin development of charsheet, develop base of app",
-            "type": "Games Research",
-            "label": "Begin development of charsheet, develop base of app"
+            "label": "Week 4 (June 25th - 29th)"
         },
         {
             "discipline": "Games Research",
@@ -1292,69 +882,9 @@
             "relationship": "Games Research",
             "date": "2012-07-05",
             "imageURL": "games_research.png",
-            "relationship-detail": "Started Prototype Ideas document to hold information about our Initial paper prototype",
+            "relationship-detail": "Started Game Definitions document\nCompleted Game Definitions document\nBegin development of charsheet, develop base of app\nConfirmed story and first version of combat\nStarted Prototype Ideas document to hold information about our Initial paper prototype\nMolded game system with the setting",
             "type": "Games Research",
-            "label": "Started Prototype Ideas document to hold information about our Initial paper prototype"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-06-06",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Molded game system with the setting",
-            "type": "Games Research",
-            "label": "Molded game system with the setting"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-09",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started High Concept document ",
-            "type": "Games Research",
-            "label": "Started High Concept document "
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-09",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Game Treatment document",
-            "type": "Games Research",
-            "label": "Started Game Treatment document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-09",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Pull charsheet data in from various sources, work on base functionality and styling",
-            "type": "Games Research",
-            "label": "Pull charsheet data in from various sources, work on base functionality and styling"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-10",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started API Master Doc ",
-            "type": "Games Research",
-            "label": "Started API Master Doc "
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-12",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Discussed choice FOSS elements to integrate and implement",
-            "type": "Games Research",
-            "label": "Discussed choice FOSS elements to integrate and implement"
+            "label": "Week 5 (July 2nd - 6th)"
         },
         {
             "discipline": "Games Research",
@@ -1362,99 +892,9 @@
             "relationship": "Games Research",
             "date": "2012-07-13",
             "imageURL": "games_research.png",
-            "relationship-detail": "Created basic design and feel of the game in the High Concept Document and Game Treatment Document",
+            "relationship-detail": "Started High Concept document \nStarted Game Treatment document\nPull charsheet data in from various sources, work on base functionality and styling\nStarted API Master Doc \nDiscussed choice FOSS elements to integrate and implement\nCreated basic design and feel of the game in the High Concept Document and Game Treatment Document\nAdded a backstory to the Game Treatment document to fit with the look and feel of the setting\nCompleted API Master Doc\nHad a Symposium meeting with the other fellows of the program",
             "type": "Games Research",
-            "label": "Created basic design and feel of the game in the High Concept Document and Game Treatment Document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-13",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Added a backstory to the Game Treatment document to fit with the look and feel of the setting",
-            "type": "Games Research",
-            "label": "Added a backstory to the Game Treatment document to fit with the look and feel of the setting"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-13",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed API Master Doc",
-            "type": "Games Research",
-            "label": "Completed API Master Doc"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-13",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Had a Symposium meeting with the other fellows of the program",
-            "type": "Games Research",
-            "label": "Had a Symposium meeting with the other fellows of the program"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-16",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Project Abstract document for the 2012 RIT Ugrad Research Symposium",
-            "type": "Games Research",
-            "label": "Started Project Abstract document for the 2012 RIT Ugrad Research Symposium"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-16",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Added combat paper prototype to the Prototype Ideas document",
-            "type": "Games Research",
-            "label": "Added combat paper prototype to the Prototype Ideas document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-16",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Discussed ideas surrounding the economy",
-            "type": "Games Research",
-            "label": "Discussed ideas surrounding the economy"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-16",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Read and discussed Game Balance Concepts (All 10 weeks)",
-            "type": "Games Research",
-            "label": "Read and discussed Game Balance Concepts (All 10 weeks)"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-16",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Add a bunch of features, error handling, close many tickets",
-            "type": "Games Research",
-            "label": "Add a bunch of features, error handling, close many tickets"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-16",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Worked on various systems such as trading, crafting, armor, and combat",
-            "type": "Games Research",
-            "label": "Worked on various systems such as trading, crafting, armor, and combat"
+            "label": "Week 6 (July 9th - 13th)"
         },
         {
             "discipline": "Games Research",
@@ -1462,159 +902,9 @@
             "relationship": "Games Research",
             "date": "2012-07-18",
             "imageURL": "games_research.png",
-            "relationship-detail": "Completed Project Abstract document and submitted",
+            "relationship-detail": "Started Project Abstract document for the 2012 RIT Ugrad Research Symposium\nAdded combat paper prototype to the Prototype Ideas document\nDiscussed ideas surrounding the economy\nRead and discussed Game Balance Concepts (All 10 weeks)\nAdd a bunch of features, error handling, close many tickets\nWorked on various systems such as trading, crafting, armor, and combat\nCompleted Project Abstract document and submitted\nStarted Presentation Day To Do List document",
             "type": "Games Research",
-            "label": "Completed Project Abstract document and submitted"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-18",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Presentation Day To Do List document",
-            "type": "Games Research",
-            "label": "Started Presentation Day To Do List document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-23",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed High Concept document",
-            "type": "Games Research",
-            "label": "Completed High Concept document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-23",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed Game Treatment document",
-            "type": "Games Research",
-            "label": "Completed Game Treatment document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-23",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Balance work on the combat, crafting and materials systems",
-            "type": "Games Research",
-            "label": "Balance work on the combat, crafting and materials systems"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-23",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Testing combat prototype",
-            "type": "Games Research",
-            "label": "Testing combat prototype"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-23",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Deployment to OpenShift, add more features, work on integrating more APIs",
-            "type": "Games Research",
-            "label": "Deployment to OpenShift, add more features, work on integrating more APIs"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-24",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Weapons vs Armor spreadsheet",
-            "type": "Games Research",
-            "label": "Started Weapons vs Armor spreadsheet"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-24",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed Weapons vs Armor spreadsheet",
-            "type": "Games Research",
-            "label": "Completed Weapons vs Armor spreadsheet"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-25",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Languages Spreadsheet ",
-            "type": "Games Research",
-            "label": "Started Languages Spreadsheet "
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-25",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed Languages Spreadsheet",
-            "type": "Games Research",
-            "label": "Completed Languages Spreadsheet"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-25",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Developer Character Spreadsheet",
-            "type": "Games Research",
-            "label": "Started Developer Character Spreadsheet"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-26",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Playtest Scripts and Surveys document",
-            "type": "Games Research",
-            "label": "Started Playtest Scripts and Surveys document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-26",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Coding Rates spreadsheet started",
-            "type": "Games Research",
-            "label": "Coding Rates spreadsheet started"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-26",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Coding Rates spreadsheet completed",
-            "type": "Games Research",
-            "label": "Coding Rates spreadsheet completed"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-26",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Completed Developer Character Spreadsheet",
-            "type": "Games Research",
-            "label": "Completed Developer Character Spreadsheet"
+            "label": "Week 7 (July 16th - 20th)"
         },
         {
             "discipline": "Games Research",
@@ -1622,109 +912,9 @@
             "relationship": "Games Research",
             "date": "2012-07-27",
             "imageURL": "games_research.png",
-            "relationship-detail": "Started Playtest Flyer and preparations for playtesting",
+            "relationship-detail": "Completed High Concept document\nCompleted Game Treatment document\nBalance work on the combat, crafting and materials systems\nTesting combat prototype\nDeployment to OpenShift, add more features, work on integrating more APIs\nStarted Weapons vs Armor spreadsheet\nCompleted Weapons vs Armor spreadsheet\nStarted Languages Spreadsheet \nCompleted Languages Spreadsheet\nStarted Developer Character Spreadsheet\nStarted Playtest Scripts and Surveys document\nCoding Rates spreadsheet started\nCoding Rates spreadsheet completed\nCompleted Developer Character Spreadsheet\nStarted Playtest Flyer and preparations for playtesting\nAdded FOSS integration numbers and balance to Brainstorming Ideas document\nAdded stat ratios for Developer Character Sheet document",
             "type": "Games Research",
-            "label": "Started Playtest Flyer and preparations for playtesting"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-27",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Added FOSS integration numbers and balance to Brainstorming Ideas document",
-            "type": "Games Research",
-            "label": "Added FOSS integration numbers and balance to Brainstorming Ideas document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-27",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Added stat ratios for Developer Character Sheet document",
-            "type": "Games Research",
-            "label": "Added stat ratios for Developer Character Sheet document"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-30",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Game Systems, a compilation of the various systems we developed",
-            "type": "Games Research",
-            "label": "Started Game Systems, a compilation of the various systems we developed"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-30",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Game Systems doc completed",
-            "type": "Games Research",
-            "label": "Game Systems doc completed"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-30",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Playtest flyers posted around campus",
-            "type": "Games Research",
-            "label": "Playtest flyers posted around campus"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-30",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Implement attributes and skill values, more improvements and additions",
-            "type": "Games Research",
-            "label": "Implement attributes and skill values, more improvements and additions"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-30",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started PowerPoint presentation we\u2019ll use at the Research Symposium",
-            "type": "Games Research",
-            "label": "Started PowerPoint presentation we\u2019ll use at the Research Symposium"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-30",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Presentation Outline",
-            "type": "Games Research",
-            "label": "Started Presentation Outline"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-31",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Timeline of our progress ",
-            "type": "Games Research",
-            "label": "Started Timeline of our progress "
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-07-31",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Started Presentation Script",
-            "type": "Games Research",
-            "label": "Started Presentation Script"
+            "label": "Week 8 (July 23rd - 27th)"
         },
         {
             "discipline": "Games Research",
@@ -1732,29 +922,9 @@
             "relationship": "Games Research",
             "date": "2012-08-03",
             "imageURL": "games_research.png",
-            "relationship-detail": "Playtest session with other fellows ",
+            "relationship-detail": "Started Game Systems, a compilation of the various systems we developed\nGame Systems doc completed\nPlaytest flyers posted around campus\nImplement attributes and skill values, more improvements and additions\nStarted PowerPoint presentation we\u2019ll use at the Research Symposium\nStarted Presentation Outline\nStarted Timeline of our progress \nStarted Presentation Script\nPlaytest session with other fellows ",
             "type": "Games Research",
-            "label": "Playtest session with other fellows "
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-08-06",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Prepare presentation",
-            "type": "Games Research",
-            "label": "Prepare presentation"
-        },
-        {
-            "discipline": "Games Research",
-            "url": "http://foss.rit.edu/projects/fosssgm",
-            "relationship": "Games Research",
-            "date": "2012-08-09",
-            "imageURL": "games_research.png",
-            "relationship-detail": "Go to Red Hat in Boston to give presentation",
-            "type": "Games Research",
-            "label": "Go to Red Hat in Boston to give presentation"
+            "label": "Week 9 (July 30th - August 3rd)"
         },
         {
             "discipline": "Games Research",
@@ -1762,9 +932,9 @@
             "relationship": "Games Research",
             "date": "2012-08-11",
             "imageURL": "games_research.png",
-            "relationship-detail": "See Boston",
+            "relationship-detail": "Prepare presentation\nGo to Red Hat in Boston to give presentation\nSee Boston",
             "type": "Games Research",
-            "label": "See Boston"
+            "label": "Week 10 (August 6th - 10th)"
         },
         {
             "discipline": "Games Research",
@@ -1774,7 +944,7 @@
             "imageURL": "games_research.png",
             "relationship-detail": "Clean up any documents",
             "type": "Games Research",
-            "label": "Clean up any documents"
-        }
+            "label": "Week 11 (August 13th - 17th)"
+        },
     ]
 }
