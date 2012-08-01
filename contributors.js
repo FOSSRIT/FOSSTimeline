@@ -17,7 +17,10 @@
         "Project Release" : {
             pluralLabel: "Project Releases",
         "Conference" : {
-            pluralLabel: "Conferences"
+            pluralLabel: "Conferences",
+        "Games Research" : {
+            pluralLabel: "Games Research",
+        }
         }
         }
         }
