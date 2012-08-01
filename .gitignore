@@ -1,3 +1,5 @@
 /backups/
 worknotes
 *.pp
+*.swp
+*.swo
