@@ -116,6 +116,15 @@
             "imageURL" :              "hackfest.png",
             "url" :                   "http://foss.rit.edu/homestretchhackathon"
         },
+        {   "type" :                  "Hackathon",
+            "label" :                 "SU Student Sandbox Open Hackathon",
+            "discipline" :            "Hackathon",
+            "date" :                  "2012-07-28",
+            "relationship" :          "Hackathon",
+            "relationship-detail" :   "FOSS@RIT rocks the Twilio API in Syracuse",
+            "imageURL" :              "hackfest.png",
+            "url" :                   "http://foss.rit.edu/su-twilio-hack-12"
+        },
 
 //PROJECT RELEASES
         {   "type" :                  "Project Release",
