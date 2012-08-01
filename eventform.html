@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Timeline Event Form</title>
+    </head>
+    <body>
+        <form>
+            <!--
+                Things required:
+        {   "type" :                  "Conference",
+            "label" :                 "GOSCON - Government Open Source Conference",
+            "discipline" :            "Conference",
+            "date" :                  "2011-08-23",
+            "relationship" :          "Conference",
+            "relationship-detail" :   "Represented FOSS@RIT in Washington D.C.",
+            "imageURL" :              "meninblack.png",
+            "url" :                   "http://goscon.org/"
+
+            -->
+            <form action="/newevent" method="POST">
+                <table>
+                    <tr>
+                        <td>Type:</td><td><select name="type">
+                            <option>Press</option>
+                            <option>Team Meeting</option>
+                            <option>Dev Meeting</option>
+                            <option>Design Meeting</option>
+                            <option>Test Event</option>
+                            <option>Event</option>
+                            <option>Hackathon</option>
+                            <option>Project Release</option>
+                            <option>Conference</option>
+                            <option>Games Research</option>
+                        </select></td>
+                    </tr>
+                    <tr>
+                        <td>Label:</td><td><input type="text" name="label" /></td>
+                    </tr>
+                    <tr>
+                        <td>Discipline:</td>
+                        <td><input type="text" name="discipline" /></td>
+                    </tr>
+                    <tr>
+                        <td>Date:</td><td><input type="date" name="date" /></td>
+                    </tr>
+                    <tr>
+                        <td>Relationship:</td>
+                        <td><input type="text" name="relationship" /></td>
+                    </tr>
+                    <tr>
+                        <td>Relationship Detail:</td>
+                        <td><input type="text" name="relationship-detail" /></td>
+                    </tr>
+                    <tr>
+                        <td>Image URL:</td>
+                        <td><input type="text" name="image-url" /></td>
+                    </tr>
+                    <tr>
+                        <td>URL:</td>
+                        <td><input type="text" name="url" /></td>
+                    </tr>
+                    <tr><td colspan="2">
+                            <input type="submit" value="Add Event" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </form>
+    </body>
+</html>
