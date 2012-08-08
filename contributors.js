@@ -1,34 +1,34 @@
 {
     "types" : {
         "Press" : {
-            pluralLabel: "Press",
+            "pluralLabel": "Press"
+        },
         "Team Meeting" : {
-            pluralLabel: "Team Meetings",
+            "pluralLabel": "Team Meetings"
+        },
         "Dev Meeting" : {
-            pluralLabel: "Dev Meetings",
+            "pluralLabel": "Dev Meetings"
+        },
         "Design Meeting" : {
-            pluralLabel: "Design Meetings",
+            "pluralLabel": "Design Meetings"
+        },
         "Test Event" : {
-            pluralLabel: "Test Events",
+            "pluralLabel": "Test Events"
+        },
         "Event" : {
-            pluralLabel: "Events",
+            "pluralLabel": "Events"
+        },
         "Hackathon" : {
-            pluralLabel: "Hackathons",
+            "pluralLabel": "Hackathons"
+        },
         "Project Release" : {
-            pluralLabel: "Project Releases",
+            "pluralLabel": "Project Releases"
+        },
         "Conference" : {
-            pluralLabel: "Conferences",
+            "pluralLabel": "Conferences"
+        },
         "Games Research" : {
-            pluralLabel: "Games Research",
-        }
-        }
-        }
-        }
-        }
-        }
-        }
-        }
-        }
+            "pluralLabel": "Games Research"
         }
     },
     "properties": {
@@ -37,7 +37,6 @@
         }
     },
     "items" : [
-//HACKATHONS
         {   "type" :                  "Hackathon",
             "label" :                 "STEM Video Game Challenge Hackathon '12",
             "discipline" :            "Hackathon",
@@ -129,7 +128,6 @@
             "url" :                   "http://foss.rit.edu/su-twilio-hack-12"
         },
 
-//PROJECT RELEASES
         {   "type" :                  "Project Release",
             "label" :                 "Lemonade Stand 2.1 Released",
             "discipline" :            "Project Release",
@@ -204,7 +202,6 @@
         },
 
 
-//EVENTS
         {   "type" :                  "Event",
             "label" :                 "Digital Rochester Demo Night",
             "discipline" :            "Demo",
@@ -945,6 +942,6 @@
             "relationship-detail": "Clean up any documents",
             "type": "Games Research",
             "label": "Week 11 (August 13th - 17th)"
-        },
+        }
     ]
 }
