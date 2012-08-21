@@ -101,7 +101,7 @@
             "type": "Hackathon"
         }, 
         {
-            "discipline": "Project Release", 
+            "discipline": "Coursework",
             "relationship": "Project Release", 
             "url": "http://blog.linkybook.com/2010/11/lemonade-stand-21-released.html", 
             "imageURL": "project release.png", 
@@ -111,7 +111,7 @@
             "type": "Project Release"
         }, 
         {
-            "discipline": "Project Release", 
+            "discipline": "Coursework",
             "relationship": "Project Release", 
             "url": "http://wiki.sugarlabs.org/go/Blocku", 
             "imageURL": "project release.png", 
@@ -121,7 +121,7 @@
             "type": "Project Release"
         }, 
         {
-            "discipline": "Project Release", 
+            "discipline": "Coursework",
             "relationship": "Project Release", 
             "url": "http://foss.rit.edu/projects/fortunehunter", 
             "imageURL": "project release.png", 
@@ -131,7 +131,7 @@
             "type": "Project Release"
         }, 
         {
-            "discipline": "Project Release", 
+            "discipline": "Coursework",
             "relationship": "Project Release", 
             "url": "https://fedorahosted.org/transbot/", 
             "imageURL": "project release.png", 
@@ -141,7 +141,7 @@
             "type": "Project Release"
         }, 
         {
-            "discipline": "Project Release", 
+            "discipline": "Coursework",
             "relationship": "Project Release", 
             "url": "http://wiki.sugarlabs.org/go/PacMath", 
             "imageURL": "project release.png", 
@@ -161,7 +161,7 @@
             "type": "Project Release"
         }, 
         {
-            "discipline": "Project Release", 
+            "discipline": "Side Projects",
             "relationship": "Project Release", 
             "url": "http://gitorious.org/jlew/groovebot", 
             "imageURL": "project release.png", 
