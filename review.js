@@ -10,7 +10,7 @@ $(function () {
     pres_detail = {};
     $.each(items, function(index, item) {
       if(item['date'] > low && item['date'] < high) {
-        type = item['type'];
+        type = item['type'].toLowerCase().replace(' ', '_');
         disc = item['discipline'];
         text = item['label'] + ': <a href="' + item['url'] + '">' + item['relationship-detail'] + '</a>';
         switch(type) {
