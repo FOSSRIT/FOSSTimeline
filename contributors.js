@@ -992,13 +992,63 @@
         }, 
         {
             "discipline": "Coursework", 
-            "url": "http://lazorz-fossrit.rhcloud.com", 
             "relationship": "Project Release", 
-            "date": "2012-03-23", 
+            "url": "http://lazorz-fossrit.rhcloud.com", 
             "imageURL": "project release.png", 
             "relationship-detail": "Educational Game demonstrating the physics of light", 
+            "label": "Lazorz", 
+            "date": "2012-03-23", 
+            "type": "Project Release"
+        }, 
+        {
+            "discipline": "Side Projects", 
+            "relationship": "Project Release", 
+            "url": "https://github.com/rossdylan/catfacts", 
+            "imageURL": "project release.png", 
+            "relationship-detail": "You have all probably seen those memes floating around where someone gets pissed off at people texting them about cats. Those memes are probably just people pranking others by hand. This project automates the pranking. Built on python, flask, and the twilio API. Send Interesting catfacts to your phone once per hour! Send Interestin catfacts to anyone elses phone once per hour. Unsubscribe form coming soon (API calls to /api/unscribe will work though)", 
+            "label": "CatFacts", 
+            "date": "2012-07-28", 
+            "type": "Project Release"
+        }, 
+        {
+            "discipline": "Coursework", 
+            "relationship": "Project Release", 
+            "url": "https://github.com/FOSSRIT/point-and-click-arthur", 
+            "imageURL": "project release.png", 
+            "relationship-detail": "A children's \"point and click\" adventure based on the King Arthur legend. The story follows King Arthur as he tries to collect all of his Knights of the Roundtable from their various quests and adventures. The player will play the role as King Arthur's royal investigator and will help the king along the way. The game will be heavy in graphics which will add to the atmosphere and story. The game's primary coding language will be Python, using the pygame library to aid in graphics management. The game's target audience and device is the OLPC and children.", 
+            "label": "Point-And-Click-Arthur", 
+            "date": "2012-05-22", 
+            "type": "Project Release"
+        }, 
+        {
+            "discipline": "Coursework", 
+            "url": "https://github.com/FOSSRIT/Quilt", 
+            "relationship": "Project Release", 
+            "date": "2012-05-23", 
+            "imageURL": "project release.png", 
+            "relationship-detail": "A distributed chat client intended for the Sugar environment.", 
             "type": "Project Release", 
-            "label": "Lazorz"
+            "label": "Quilt"
+        }, 
+        {
+            "discipline": "Coursework", 
+            "url": "https://github.com/eric-kansas/Gold-Rush", 
+            "relationship": "Project Release", 
+            "date": "2012-03-25", 
+            "imageURL": "project release.png", 
+            "relationship-detail": "2-4 Player Card Game, implemented in Unity. Original Game Idea by Eric Heaney", 
+            "type": "Project Release", 
+            "label": "Gold Rush"
+        }, 
+        {
+            "discipline": "Coursework", 
+            "url": "https://github.com/CodingRobots", 
+            "relationship": "Project Release", 
+            "date": "2012-03-14", 
+            "imageURL": "project release.png", 
+            "relationship-detail": "A TurboGears-based RoboCode inspired game", 
+            "type": "Project Release", 
+            "label": "WebBotWar"
         }
     ], 
     "properties": {
@@ -1013,14 +1063,14 @@
         "Design Meeting": {
             "pluralLabel": "Design Meetings"
         }, 
-        "Test Event": {
-            "pluralLabel": "Test Events"
+        "Hackathon": {
+            "pluralLabel": "Hackathons"
         }, 
         "Games Research": {
             "pluralLabel": "Games Research"
         }, 
-        "Press": {
-            "pluralLabel": "Press"
+        "Team Meeting": {
+            "pluralLabel": "Team Meetings"
         }, 
         "Project Release": {
             "pluralLabel": "Project Releases"
@@ -1028,11 +1078,11 @@
         "Dev Meeting": {
             "pluralLabel": "Dev Meetings"
         }, 
-        "Hackathon": {
-            "pluralLabel": "Hackathons"
+        "Test Event": {
+            "pluralLabel": "Test Events"
         }, 
-        "Team Meeting": {
-            "pluralLabel": "Team Meetings"
+        "Press": {
+            "pluralLabel": "Press"
         }, 
         "Event": {
             "pluralLabel": "Events"
