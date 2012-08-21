@@ -989,6 +989,16 @@
             "label": "Week 11 (August 13th - 17th)", 
             "date": "2012-08-13", 
             "type": "Games Research"
+        }, 
+        {
+            "discipline": "Coursework", 
+            "url": "http://lazorz-fossrit.rhcloud.com", 
+            "relationship": "Project Release", 
+            "date": "2012-03-23", 
+            "imageURL": "project release.png", 
+            "relationship-detail": "Educational Game demonstrating the physics of light", 
+            "type": "Project Release", 
+            "label": "Lazorz"
         }
     ], 
     "properties": {
@@ -1003,14 +1013,14 @@
         "Design Meeting": {
             "pluralLabel": "Design Meetings"
         }, 
-        "Hackathon": {
-            "pluralLabel": "Hackathons"
+        "Test Event": {
+            "pluralLabel": "Test Events"
         }, 
         "Games Research": {
             "pluralLabel": "Games Research"
         }, 
-        "Team Meeting": {
-            "pluralLabel": "Team Meetings"
+        "Press": {
+            "pluralLabel": "Press"
         }, 
         "Project Release": {
             "pluralLabel": "Project Releases"
@@ -1018,11 +1028,11 @@
         "Dev Meeting": {
             "pluralLabel": "Dev Meetings"
         }, 
-        "Test Event": {
-            "pluralLabel": "Test Events"
+        "Hackathon": {
+            "pluralLabel": "Hackathons"
         }, 
-        "Press": {
-            "pluralLabel": "Press"
+        "Team Meeting": {
+            "pluralLabel": "Team Meetings"
         }, 
         "Event": {
             "pluralLabel": "Events"
