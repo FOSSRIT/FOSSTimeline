@@ -38,7 +38,7 @@ $(function () {
             }
             pres_detail[disc].push(text);
             break;
-          case 'Project Releases': proj++;
+          case 'Project Release': proj++;
             if(typeof proj_detail[disc] == 'undefined') {
               proj_detail[disc] = [];
             }
