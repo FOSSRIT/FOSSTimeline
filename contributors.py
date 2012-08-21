@@ -14,6 +14,9 @@ class ContribWindow(Gtk.Window):
         self.choose_type = Gtk.ComboBoxText()
         top.add(self.choose_type)
 
+        self.discipline = Gtk.Entry()
+        top.add(self.discipline)
+
         self.label = Gtk.Entry()
         top.add(self.label)
 
@@ -43,7 +46,7 @@ class ContribWindow(Gtk.Window):
         new_event = {
            "type": "choose_type",
            "label": "label",
-           "discipline": "choose_type",
+           "discipline": "discipline",
            "date": "date",
            "relationship": "choose_type",
            "relationship-detail": "detail",
@@ -71,6 +74,7 @@ class ContribWindow(Gtk.Window):
 
     def clear_text(self):
         self.choose_type.set_active(1)
+        self.discipline.set_text('subtype')
         self.label.set_text('label')
         self.detail.set_text('details')
         self.url.set_text('http://')
