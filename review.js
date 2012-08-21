@@ -27,7 +27,6 @@ $(function () {
     });
 
     $.each(details, function(key, value) {
-      alert('span#' + key + ': ' + value['count']);
       $('span#' + key).html(value['count']);
       $.each(value['items'], function(discipline, text_array) {
         section = '<h3>' + discipline + '</h3><ul>';
