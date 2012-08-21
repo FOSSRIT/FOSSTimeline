@@ -37,6 +37,7 @@ class ContribWindow(Gtk.Window):
             self.JSON_data = json.load(file_)
         for type_name in self.JSON_data['types']:
             self.choose_type.append_text(type_name)
+        self.clear_text()
 
     def save_JSON(self, widget):
         new_event = {
@@ -70,9 +71,9 @@ class ContribWindow(Gtk.Window):
 
     def clear_text(self):
         self.choose_type.set_active(1)
-        self.label.set_text('')
-        self.detail.set_text('')
-        self.url.set_text('')
+        self.label.set_text('label')
+        self.detail.set_text('details')
+        self.url.set_text('http://')
 
 
 if __name__ == '__main__':
