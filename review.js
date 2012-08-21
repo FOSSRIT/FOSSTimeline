@@ -5,8 +5,9 @@ $(function () {
     $('title').html(year + ' Year in Review');
     low = year+'-07-01';
     high = (parseInt(year) + 1)+'-08-31';
-    proj = 0; conf = 0; evnt = 0; hktn = 0;
+    proj = 0; conf = 0; evnt = 0; hktn = 0; pres = 0;
     proj_detail = {}; conf_detail = {}; evnt_detail = {}; hktn_detail = {};
+    pres_detail = {};
     $.each(items, function(index, item) {
       if(item['date'] > low && item['date'] < high) {
         type = item['type'];
@@ -31,6 +32,12 @@ $(function () {
             }
             hktn_detail[disc].push(text);
             break;
+          case 'Press': pres++;
+            if(typeof pres_detail[disc] == 'undefined') {
+              pres_detail[disc] = [];
+            }
+            pres_detail[disc].push(text);
+            break;
           case 'Project Releases': proj++;
             if(typeof proj_detail[disc] == 'undefined') {
               proj_detail[disc] = [];
@@ -43,6 +50,7 @@ $(function () {
     $('span#conferences').html(conf);
     $('span#events').html(evnt);
     $('span#hackathons').html(hktn);
+    $('span#press').html(pres);
     $('span#projects').html(proj);
     $.each(conf_detail, function(key, values) {
       section = '<h3>' + key + '</h3><ul>';
@@ -67,6 +75,14 @@ $(function () {
       });
       section += '</ul>';
       $('div#hackathon_list').append(section);
+    });
+    $.each(pres_detail, function(key, values) {
+      section = '<h3>' + key + '</h3><ul>';
+      $.each(values, function(index, text) {
+        section += '<li>' + text + '</li>';
+      });
+      section += '</ul>';
+      $('div#project_list').append(section);
     });
     $.each(proj_detail, function(key, values) {
       section = '<h3>' + key + '</h3><ul>';
