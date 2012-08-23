@@ -101,7 +101,7 @@
             "type": "Hackathon"
         }, 
         {
-            "discipline": "Coursework",
+            "discipline": "Coursework", 
             "relationship": "Project Release", 
             "url": "http://blog.linkybook.com/2010/11/lemonade-stand-21-released.html", 
             "imageURL": "project release.png", 
@@ -111,7 +111,7 @@
             "type": "Project Release"
         }, 
         {
-            "discipline": "Coursework",
+            "discipline": "Coursework", 
             "relationship": "Project Release", 
             "url": "http://wiki.sugarlabs.org/go/Blocku", 
             "imageURL": "project release.png", 
@@ -121,7 +121,7 @@
             "type": "Project Release"
         }, 
         {
-            "discipline": "Coursework",
+            "discipline": "Coursework", 
             "relationship": "Project Release", 
             "url": "http://foss.rit.edu/projects/fortunehunter", 
             "imageURL": "project release.png", 
@@ -131,7 +131,7 @@
             "type": "Project Release"
         }, 
         {
-            "discipline": "Coursework",
+            "discipline": "Coursework", 
             "relationship": "Project Release", 
             "url": "https://fedorahosted.org/transbot/", 
             "imageURL": "project release.png", 
@@ -141,7 +141,7 @@
             "type": "Project Release"
         }, 
         {
-            "discipline": "Coursework",
+            "discipline": "Coursework", 
             "relationship": "Project Release", 
             "url": "http://wiki.sugarlabs.org/go/PacMath", 
             "imageURL": "project release.png", 
@@ -161,7 +161,7 @@
             "type": "Project Release"
         }, 
         {
-            "discipline": "Side Projects",
+            "discipline": "Side Projects", 
             "relationship": "Project Release", 
             "url": "http://gitorious.org/jlew/groovebot", 
             "imageURL": "project release.png", 
@@ -1022,33 +1022,63 @@
         }, 
         {
             "discipline": "Coursework", 
-            "url": "https://github.com/FOSSRIT/Quilt", 
             "relationship": "Project Release", 
-            "date": "2012-05-23", 
+            "url": "https://github.com/FOSSRIT/Quilt", 
             "imageURL": "project release.png", 
             "relationship-detail": "A distributed chat client intended for the Sugar environment.", 
-            "type": "Project Release", 
-            "label": "Quilt"
+            "label": "Quilt", 
+            "date": "2012-05-23", 
+            "type": "Project Release"
         }, 
         {
             "discipline": "Coursework", 
-            "url": "https://github.com/eric-kansas/Gold-Rush", 
             "relationship": "Project Release", 
-            "date": "2012-03-25", 
+            "url": "https://github.com/eric-kansas/Gold-Rush", 
             "imageURL": "project release.png", 
             "relationship-detail": "2-4 Player Card Game, implemented in Unity. Original Game Idea by Eric Heaney", 
-            "type": "Project Release", 
-            "label": "Gold Rush"
+            "label": "Gold Rush", 
+            "date": "2012-03-25", 
+            "type": "Project Release"
         }, 
         {
             "discipline": "Coursework", 
-            "url": "https://github.com/CodingRobots", 
             "relationship": "Project Release", 
-            "date": "2012-03-14", 
+            "url": "https://github.com/CodingRobots", 
             "imageURL": "project release.png", 
             "relationship-detail": "A TurboGears-based RoboCode inspired game", 
-            "type": "Project Release", 
-            "label": "WebBotWar"
+            "label": "WebBotWar", 
+            "date": "2012-03-14", 
+            "type": "Project Release"
+        }, 
+        {
+            "discipline": "Conference", 
+            "url": "http://foss.rit.edu/files/program.pdf", 
+            "relationship": "Conference", 
+            "date": "2012-08-10", 
+            "imageURL": "conference.png", 
+            "relationship-detail": "The FOSSBox travelled Red Hat HQ outside of Boston to present the results of their summer research and development.", 
+            "type": "Conference", 
+            "label": "2012 RIT Summer Undergraduate Research Symposium"
+        }, 
+        {
+            "discipline": "Meetup", 
+            "url": "http://www.rocpy.org/", 
+            "relationship": "Event", 
+            "date": "2012-07-24", 
+            "imageURL": "event.png", 
+            "relationship-detail": "Kick-off meeting of Rochester's Python User Group. Guest speaker Mitch Gaarnat, author of Boto, the python interface to Amazon Web Services.", 
+            "type": "Event", 
+            "label": "ROCpy: Rochester Python User Group Kick-off"
+        }, 
+        {
+            "discipline": "Meetup", 
+            "url": "http://rocpy.org", 
+            "relationship": "Event", 
+            "date": "2012-08-21", 
+            "imageURL": "event.png", 
+            "relationship-detail": "ROCpy Meetup showing off DIRSIG, and other Remote Sensing and image manipulation tools.", 
+            "type": "Event", 
+            "label": "ROCpy Meetup: Numpy, Scipy, and Matplotlib"
         }
     ], 
     "properties": {
@@ -1063,14 +1093,14 @@
         "Design Meeting": {
             "pluralLabel": "Design Meetings"
         }, 
-        "Hackathon": {
-            "pluralLabel": "Hackathons"
+        "Test Event": {
+            "pluralLabel": "Test Events"
         }, 
         "Games Research": {
             "pluralLabel": "Games Research"
         }, 
-        "Team Meeting": {
-            "pluralLabel": "Team Meetings"
+        "Press": {
+            "pluralLabel": "Press"
         }, 
         "Project Release": {
             "pluralLabel": "Project Releases"
@@ -1078,11 +1108,11 @@
         "Dev Meeting": {
             "pluralLabel": "Dev Meetings"
         }, 
-        "Test Event": {
-            "pluralLabel": "Test Events"
+        "Hackathon": {
+            "pluralLabel": "Hackathons"
         }, 
-        "Press": {
-            "pluralLabel": "Press"
+        "Team Meeting": {
+            "pluralLabel": "Team Meetings"
         }, 
         "Event": {
             "pluralLabel": "Events"
