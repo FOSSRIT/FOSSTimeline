@@ -7,18 +7,18 @@ $(function () {
 
 function summarize(year) {
   $.getJSON("contributors.js", function(data) {
-    items = data['items'];
+    var items = data['items'];
     $('title').html(year + ' Year in Review');
     // Range of dates valid for this year.
-    low = year+'-07-01';
-    high = (parseInt(year) + 1)+'-08-31';
-    details = {};
+    var low = year+'-07-01';
+    var high = (parseInt(year) + 1)+'-08-31';
+    var details = {};
 
     $.each(items, function(index, item) {
       if(item['date'] > low && item['date'] < high) {
-        type = item['type'].toLowerCase().replace(' ', '_');
-        disc = item['discipline'];
-        text = item['label'] + ': <a href="' + item['url'] + '">' + item['relationship-detail'] + '</a>';
+        var type = item['type'].toLowerCase().replace(' ', '_');
+        var disc = item['discipline'];
+        var text = item['label'] + ': <a href="' + item['url'] + '">' + item['relationship-detail'] + '</a>';
         if(typeof details[type] == 'undefined') {
           details[type] = {};
           details[type]['count'] = 0;
@@ -36,7 +36,7 @@ function summarize(year) {
       $('span#' + key).html(value['count']);
       $('div#' + key + '_list').html('')
       $.each(value['items'], function(discipline, text_array) {
-        section = '<h3>' + discipline + '</h3><ul>';
+        var section = '<h3>' + discipline + '</h3><ul>';
         $.each(text_array, function(index, text) {
           section += '<li>' + text + '</li>';
         });
