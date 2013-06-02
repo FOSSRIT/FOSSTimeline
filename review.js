@@ -1,7 +1,13 @@
 $(function () {
-  $.getJSON("contributors.js", function(data) { 
+  summarize($('#year option').val())
+  $('#year option').click(function() {
+    summarize($(this).val());
+  });
+});
+
+function summarize(year) {
+  $.getJSON("contributors.js", function(data) {
     items = data['items'];
-    year = $('span#year').html();
     $('title').html(year + ' Year in Review');
     // Range of dates valid for this year.
     low = year+'-07-01';
@@ -28,6 +34,7 @@ $(function () {
 
     $.each(details, function(key, value) {
       $('span#' + key).html(value['count']);
+      $('div#' + key + '_list').html('')
       $.each(value['items'], function(discipline, text_array) {
         section = '<h3>' + discipline + '</h3><ul>';
         $.each(text_array, function(index, text) {
@@ -38,4 +45,4 @@ $(function () {
       });
     });
   });
-});
+};
