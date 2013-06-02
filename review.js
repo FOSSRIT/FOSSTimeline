@@ -1,7 +1,21 @@
 $(function () {
-  summarize($('#year option').val())
-  $('#year option').click(function() {
-    summarize($(this).val());
+  $.getJSON("contributors.js", function(data) {
+    var items = data['items'];
+    var years = new Array();
+    $.each(items, function(index, item) {
+        var year = item['date'].split('-')[0];
+        if (years.indexOf(year) == -1) {
+            years.push(year);
+            $('#year').append("<option value='"+year+"'>"+year+"</option>");
+        };
+    });
+
+    // Now that the select has been populated, register the selects
+    // and load a summary
+    $('#year option').click(function() {
+      summarize($(this).val());
+    });
+    summarize($('#year option').val());
   });
 });
 
