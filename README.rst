@@ -1,8 +1,8 @@
-FOSS@RIT Simile Widgets
-=======================
+FOSS\@RIT Simile Widgets
+========================
 
 This repo contains the html, json, css, and javascript used for creating an
-Interactive Storytelling Exhibit for The FOSS@RIT Campaign. It is based on the
+Interactive Storytelling Exhibit for The FOSS\@RIT Campaign. It is based on the
 MIT Simile Project Exhibit example:
 http://www.simile-widgets.org/exhibit/examples/nobelists/nobelists.html
 
