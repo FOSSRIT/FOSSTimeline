@@ -6,7 +6,7 @@ Interactive Storytelling Exhibit for The FOSS\@RIT Campaign. It is based on the
 MIT Simile Project Exhibit example:
 http://www.simile-widgets.org/exhibit/examples/nobelists/nobelists.html
 
-These widgets will be publicly available at http://foss.rit.edu/edu.
+These widgets will be publicly available at http://yacht.rit.edu/timeline/.
 
 The Simile Timeline widget inspired us to give Exhibit a try, and it does not
 dissapoint. Shout out to the MIT Media Lab http://media.mit.edu for releasing
