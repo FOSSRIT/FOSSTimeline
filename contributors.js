@@ -1,6 +1,206 @@
 {
     "items": [
         {
+            "date": "2014-03-05",
+            "discipline": "Talk",
+            "imageURL": "conference.png",
+            "label": "SIGCSE - Prof. Remy DeCausemaker",
+            "relationship": "Conference",
+            "relationship-detail": "Adventures in Hackademia: Leveraging Humanitarian Free/Open Source Software Development in the Class Room",
+            "type": "Conference",
+            "url": "https://www.openconf.org/sigcse2014/modules/request.php?module=oc_program&action=summary.php&id=2173&OPENCONF=d0cl6tq5jj0a03q6enumtafgq1"
+        },
+        {
+            "date": "2014-03-05",
+            "discipline": "Talk",
+            "imageURL": "conference.png",
+            "label": "SIGCSE - Prof. Stephen Jacobs",
+            "relationship": "Conference",
+            "relationship-detail": "RIT’s New Minor in Free and Open Source Software and Free Culture.",
+            "type": "Conference",
+            "url": "https://www.openconf.org/sigcse2014/modules/request.php?module=oc_program&action=summary.php&id=2137"
+        },
+        {
+            "date": "2013-09-27",
+            "discipline": "Side Projects",
+            "imageURL": "project release.png",
+            "label": "yumwhat",
+            "relationship": "Project Release",
+            "relationship-detail": "Wild card! Oddshocks writes a yum plugin! yumwhat is a better package info plugin for Yum.",
+            "type": "Project Release",
+            "url": "https://github.com/oddshocks/yumwat"
+        },
+        {
+            "date": "2013-09-20",
+            "discipline": "Event",
+            "imageURL": "event.png",
+            "label": "\"My First Kernel Patch\" Seminar",
+            "relationship": "Event",
+            "relationship-detail": "An introduction to patching the Linux kernel taught by Matthew Whitehead.",
+            "type": "Event",
+            "url": "https://github.com/FOSSRIT/sfd13"
+        },
+        {
+            "date": "2013-11-12",
+            "discipline": "Press",
+            "imageURL": "event.png",
+            "label": " Google Summer of Code Mentor Summit 2013",
+            "relationship": "Press",
+            "relationship-detail": "We are excited to have a guest post from Remy DeCausemaker highlighting his first Google Summer of Code Mentor Summit. Enjoy.",
+            "type": "Press",
+            "url": "http://google-opensource.blogspot.com/2013/11/google-summer-of-code-mentor-summit-2013.html"
+        },
+        {
+            "date": "2013-12-05",
+            "discipline": "Press",
+            "imageURL": "event.png",
+            "label": "Google Summer of Code Wrap-up - Opensource.com",
+            "relationship": "Press",
+            "relationship-detail": "Wrapping up the Summer of Code at the Googleplex",
+            "type": "Press",
+            "url": "https://opensource.com/life/13/12/google-summer-code-mentor-summit"
+        },
+        {
+            "date": "2013-07-11",
+            "discipline": "Press",
+            "imageURL": "event.png",
+            "label": "‘Sky Time’ video game selected for White House Champions of Change event July 23",
+            "relationship": "Press",
+            "relationship-detail": "RIT student educational game designers honored as extraordinary civic hackers",
+            "type": "Press",
+            "url": "http://www.rit.edu/news/story.php?id=50113"
+        },
+        {
+            "date": "2013-12-11",
+            "discipline": "Side Projects",
+            "imageURL": "project release.png",
+            "label": "SkyTime",
+            "relationship": "Project Release",
+            "relationship-detail": "This game is designed to teach younger children the connection between clocks and time as well as how to read an analog clock.",
+            "type": "Project Release",
+            "url": "https://github.com/FOSSRIT/SkyTime"
+        },
+        {
+            "date": "2013-09-20",
+            "discipline": "SURF",
+            "imageURL": "project release.png",
+            "label": "Open Video Chat",
+            "relationship": "Project Release",
+            "relationship-detail": "An open source video conferencing tool for the XO laptop",
+            "type": "Project Release",
+            "url": "https://github.com/FOSSRIT/Open-Video-Chat"
+        },
+        {
+            "date": "2013-12-18",
+            "discipline": "Coursework",
+            "imageURL": "project release.png",
+            "label": "Fortune Hunter",
+            "relationship": "Project Release",
+            "relationship-detail": "Mathematical Adventure Fortune Hunter - Educational Game for the XO Laptop",
+            "type": "Project Release",
+            "url": "https://github.com/FOSSRIT/fortunehunter"
+        },
+        {
+            "date": "2013-12-18",
+            "discipline": "Coursework",
+            "imageURL": "project release.png",
+            "label": "Sash",
+            "relationship": "Project Release",
+            "relationship-detail": "",
+            "type": "Project Release",
+            "url": "https://github.com/FOSSRIT/sash"
+        },
+        {
+            "date": "2013-12-18",
+            "discipline": "Coursework",
+            "imageURL": "project release.png",
+            "label": "Blocku",
+            "relationship": "Project Release",
+            "relationship-detail": "BlockU is a game for kids, about math and blocks.",
+            "type": "Project Release",
+            "url": "https://github.com/FOSSRIT/blocku"
+        },
+        {
+            "date": "2013-09-25",
+            "discipline": "Bugfix",
+            "imageURL": "event.png",
+            "label": "Pomelo pull request #295",
+            "relationship": "Bugfix",
+            "relationship-detail": "Fixed spelling errors and awkward grammar in README.md",
+            "type": "Bugfix",
+            "url": "https://github.com/NetEase/pomelo/pull/295"
+        },
+        {
+            "date": "2013-09-12",
+            "discipline": "Bugfix",
+            "imageURL": "event.png",
+            "label": "CJDNS pull request #42",
+            "relationship": "Bugfix",
+            "relationship-detail": "Oxford comma.",
+            "type": "Bugfix",
+            "url": "https://github.com/inhies/cjdcmd/pull/42"
+        },
+        {
+            "date": "2013-09-23",
+            "discipline": "Bugfix",
+            "imageURL": "event.png",
+            "label": "Swipe pull request #369",
+            "relationship": "Bugfix",
+            "relationship-detail": "Add support for captions in Swipe!",
+            "type": "Bugfix",
+            "url": "https://github.com/bradbirdsall/Swipe/pull/369"
+        },
+        {
+            "date": "2013-09-23",
+            "discipline": "Bugfix",
+            "imageURL": "event.png",
+            "label": "Hybrid-Pedagogy pull request #27",
+            "relationship": "Bugfix",
+            "relationship-detail": "Fixes #23: Add background image to front page",
+            "type": "Bugfix",
+            "url": "https://github.com/balanced/balanced-dashboard/pull/629"
+        },
+        {
+            "date": "2013-09-23",
+            "discipline": "Bugfix",
+            "imageURL": "event.png",
+            "label": "Balanced-Dashboard pull request #629",
+            "relationship": "Bugfix",
+            "relationship-detail": "Fixes #563:  Change 'escrow' text to Droid Serif - font-style: italics #563",
+            "type": "Bugfix",
+            "url": "https://github.com/balanced/balanced-dashboard/pull/629"
+        },
+        {
+            "date": "2013-09-20",
+            "discipline": "Bugfix",
+            "imageURL": "event.png",
+            "label": "OpenMorrowind issue #907",
+            "relationship": "Bugfix",
+            "relationship-detail": "Entering third person using the mousewheel is possible even if it's impossible using the key",
+            "type": "Bugfix",
+            "url": "http://bugs.openmw.org/issues/907"
+        },
+        {
+            "date": "2013-01-13",
+            "discipline": "Hackathon",
+            "imageURL": "hackathon.png",
+            "label": "University Hacker Olympics 2012",
+            "relationship": "Hackathon",
+            "relationship-detail": "FOSSBoxers flew to San Francisco to compete and place 3rd in the University Hacker Olympics.",
+            "type": "Hackathon",
+            "url": "http://mashable.com/2013/01/14/hacker-olympics/"
+        },
+        {
+            "date": "2013-09-26",
+            "discipline": "Hackathon",
+            "imageURL": "event.png",
+            "label": "University Hacker Olympics 2013",
+            "relationship": "Hackathon",
+            "relationship-detail": "FOSSBoxers flew to San Francisco to compete in the University Hacker Olympics.",
+            "type": "Hackathon",
+            "url": "http://events.signalfire.com/"
+        },
+        {
             "date": "2013-06-01",
             "discipline": "Hackathon",
             "imageURL": "hackathon.png",
@@ -2066,6 +2266,9 @@
         },
         "Test Event": {
             "pluralLabel": "Test Events"
+        },
+        "Bugfix": {
+            "pluralLabel": "Bugfixes"
         }
     }
 }
