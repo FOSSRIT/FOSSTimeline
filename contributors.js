@@ -1,6 +1,16 @@
 {
     "items": [
         {
+            "date": "2013-04-22",
+            "discipline": "Press",
+            "imageURL": "event.png",
+            "label": "Two RIT teams head to International NASA Space Apps Challenge",
+            "relationship": "Press",
+            "relationship-detail": "Rochester community takes part in largest hackathon ever held",
+            "type": "Press",
+            "url": "http://www.rit.edu/news/story.php?id=49961"
+        },
+        {
             "date": "2014-03-05",
             "discipline": "Talk",
             "imageURL": "conference.png",
