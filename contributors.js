@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "date": "2013-06-01",
+            "discipline": "Hackathon",
+            "imageURL": "hackathon.png",
+            "label": "National Day of Civic Hacking 2013",
+            "relationship": "Hackathon",
+            "relationship-detail": "
+
+            National Day of Civic Hacking is a national event that will take place June 1-2, 2013, in cities across the nation. The event will bring together citizens, software developers, and entrepreneurs from all over the nation to collaboratively create, build, and invent new solutions using publicly-released data, code and technology to solve challenges relevant to our neighborhoods, our cities, our states and our country.",
+            "type": "Hackathon",
+            "url": "http://www.hackforchange.org/fossrit-rochester-civic-hackathon"
+        },
+        {
             "date": "2013-07-18",
             "discipline": "Coursework",
             "imageURL": "project release.png",
@@ -422,13 +434,23 @@
         },
         {
             "date": "2011-11-08",
-            "discipline": "Event",
-            "imageURL": "event.png",
+            "discipline": "Hackathon",
+            "imageURL": "hackathon.png",
             "label": "RIT Election Night Hackathon",
-            "relationship": "Event",
+            "relationship": "Hackathon",
             "relationship-detail": "",
-            "type": "Event",
+            "type": "Hackathon",
             "url": "http://foss.rit.edu"
+        },
+        {
+            "date": "2010-11-02",
+            "discipline": "Hackathon",
+            "imageURL": "hackathon.png",
+            "label": "RIT Election Night Hackathon",
+            "relationship": "Hackathon",
+            "relationship-detail": "",
+            "type": "Hackathon",
+            "url": "http://foss.rit.edu/node/218"
         },
         {
             "date": "2011-10-22",
@@ -441,14 +463,14 @@
             "url": "http://foss.rit.edu"
         },
         {
-            "date": "2011-10-20",
-            "discipline": "Conference",
-            "imageURL": "conference.png",
-            "label": "Capitol Camp 2011",
-            "relationship": "Conference",
-            "relationship-detail": "Capitol Camp 2011 is an \u201cunconference\u201d and Developer\u2019s Summit taking place October 20th and 21st that brings together government technology stakeholders under the roof of the New York State Capitol Building to share challenges and solutions.  We h",
-            "type": "Conference",
-            "url": "http://foss.rit.edu"
+            "date": "2012-11-15",
+            "discipline": "Hackathon",
+            "imageURL": "hackathon.png",
+            "label": "CapitolCampNY 2012",
+            "relationship": "Hackathon",
+            "relationship-detail": "Capitol Camp 2012 is an \u201cunconference\u201d and Developer\u2019s Summit that brings together government technology stakeholders under the roof of the New York State Capitol Building to share challenges and solutions.",
+            "type": "Hackathon",
+            "url": "http://capitolcamp.tumblr.com/post/32815664647/capitolcamp2012-announce"
         },
         {
             "date": "2011-10-29",
@@ -1441,6 +1463,16 @@
             "url": "http://softwarefreedomday.org/"
         },
         {
+            "date": "2011-10-20",
+            "discipline": "Conference",
+            "imageURL": "conference.png",
+            "label": "CapitolCamp Developer Summit '11'",
+            "relationship": "Conference",
+            "relationship-detail": "Capitol Camp 2011 is an “unconference” and Developer’s Summit taking place October 20th and 21st that brings together government technology stakeholders under the roof of the New York State Capitol Building to share challenges and solutions. We hope to build on the success of prior Capitol Camp events to further engage and expand this community, as a key component of leveraging technology to build a more transparent, efficient, and participatory government for all New York State citizens.",
+            "type": "Conference",
+            "url": "http://barcamp.org/w/page/402087/CapitolCamp"
+        },
+        {
             "date": "2010-08-19",
             "discipline": "Conference",
             "imageURL": "conference.png",
@@ -1769,6 +1801,16 @@
             "relationship-detail": "FOSS@RIT attends PyCon and gives poster sessions on python related work.",
             "type": "Conference",
             "url": "https://us.pycon.org/2012/"
+        },
+        {
+            "date": "2011-04-27",
+            "discipline": "Conference",
+            "imageURL": "conference.png",
+            "label": "Startup Weekend Rochester",
+            "relationship": "Conference",
+            "relationship-detail": "FOSS@RIT participates in 54-hour event focused on developing mobile apps.",
+            "type": "Conference",
+            "url": "http://rochester.startupweekend.org/"
         },
         {
             "date": "2012-04-29",
