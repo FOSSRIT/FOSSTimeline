@@ -16,9 +16,24 @@ $(function () {
     // Now that the select has been populated, register the selects
     // and load a summary
     $('#year').click(function() {
-      summarize($('#year option:selected').val());
+      window.location.hash = $('#year option:selected').val();
     });
-    summarize($('#year option:selected').val());
+    // summaries are loaded based on the year in the
+    // location hash so that the back button can
+    // remember which year you were looking at.
+    $(window).on('hashchange', function() {
+      var changed_year = window.location.hash.substring(1);
+      summarize(changed_year);
+      $('#year').val(changed_year).change();
+    });
+
+    // load the correct year on first page load
+    var selected = window.location.hash.substring(1);
+    if (!selected) {
+      selected = $('#year option:selected').val();
+    }
+    $('#year').val(selected).change();
+    summarize(selected);
    });
 });
 
