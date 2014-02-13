@@ -6,9 +6,7 @@
             "imageURL": "hackathon.png",
             "label": "National Day of Civic Hacking 2013",
             "relationship": "Hackathon",
-            "relationship-detail": "
-
-            National Day of Civic Hacking is a national event that will take place June 1-2, 2013, in cities across the nation. The event will bring together citizens, software developers, and entrepreneurs from all over the nation to collaboratively create, build, and invent new solutions using publicly-released data, code and technology to solve challenges relevant to our neighborhoods, our cities, our states and our country.",
+            "relationship-detail": "National Day of Civic Hacking is a national event that will take place June 1-2, 2013, in cities across the nation. The event will bring together citizens, software developers, and entrepreneurs from all over the nation to collaboratively create, build, and invent new solutions using publicly-released data, code and technology to solve challenges relevant to our neighborhoods, our cities, our states and our country.",
             "type": "Hackathon",
             "url": "http://www.hackforchange.org/fossrit-rochester-civic-hackathon"
         },
